@@ -7,7 +7,6 @@
 
 # myscript.py
 
-from module import *
 #
 # email = input()
 # check_email(email)
